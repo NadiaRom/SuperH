@@ -32,3 +32,20 @@ colnames(df) <- c("Дата", "АЕС", "ТЕЦ", "Генерація.з.ВДЕ"
 [1] 18032.5
 > sd(df_consumptions)
 [1] 1943.113
+
+
+### Завдання 5
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>let's html</title>
+</head>
+<body>
+
+<h1>Yogo zvaty</h1>
+<h2>DZIDZIO</h2>
+
+<p> ARTYST <a href="https://www.instagram.com/dzidzio/">Copy</a></p>
+
+<img src="https://i.ytimg.com/vi/PDaPqQd1Mns/maxresdefault.jpg" alt="Bearded Face" height="100" width="100">
